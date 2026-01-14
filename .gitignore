@@ -1,7 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
 
-
+# Data & models
+data/
 models/
 
-.venv/
-
-__pycache__/
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
